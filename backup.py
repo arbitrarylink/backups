@@ -18,7 +18,7 @@ start_time = time.time()
 
 # Define the name and path of the compressed file to create
 compressed_file_name = f"google_drive_backup_{today}.zip"
-compressed_file_path = "temp/" + compressed_file_name
+compressed_file_path = compressed_file_name
 
 # Start the timer
 start_time = time.time()
